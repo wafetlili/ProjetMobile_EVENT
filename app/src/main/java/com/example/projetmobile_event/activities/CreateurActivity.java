@@ -1,4 +1,4 @@
-package com.example.eventmanager.activities;
+package com.example.projetmobile_event.activities;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.eventmanager.R;
+import com.example.projetmobile_event.R;
 import com.example.eventmanager.adapters.EvenementAdapter;
 import com.example.eventmanager.database.DatabaseHelper;
 import com.example.eventmanager.models.Evenement;

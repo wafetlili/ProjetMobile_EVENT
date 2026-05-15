@@ -1,4 +1,4 @@
-package com.example.eventmanager.activities;
+package com.example.projetmobile_event.activities;
 
 import android.app.AlertDialog;
 import android.os.Bundle;

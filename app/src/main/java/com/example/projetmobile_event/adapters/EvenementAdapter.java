@@ -1,4 +1,4 @@
-package com.example.eventmanager.adapters;
+package com.example.projetmobile_event.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.eventmanager.R;
+import com.example.projetmobile_event.R;
 import com.example.eventmanager.models.Evenement;
 
 import java.util.List;

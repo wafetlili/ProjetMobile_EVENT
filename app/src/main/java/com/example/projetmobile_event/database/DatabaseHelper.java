@@ -1,4 +1,4 @@
-package com.example.eventmanager.database;
+package com.example.projetmobile_event.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import com.example.eventmanager.models.Evenement;
-import com.example.eventmanager.models.Inscription;
+import com.example.projetmobile_event.models.Inscription;
 
 import java.util.ArrayList;
 import java.util.List;

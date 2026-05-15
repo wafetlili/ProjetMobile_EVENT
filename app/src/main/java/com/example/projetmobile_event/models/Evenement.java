@@ -1,4 +1,4 @@
-package com.example.eventmanager.models;
+package com.example.projetmobile_event.models;
 
 public class Evenement {
   private int id;
@@ -10,11 +10,9 @@ public class Evenement {
   private int placesMax;
   private int placesRestantes;
 
-  // Constructeur vide (obligatoire)
   public Evenement() {
   }
 
-  // Constructeur avec tous les paramètres (sans id)
   public Evenement(String titre, String description, String date,
                    String heure, String lieu, int placesMax, int placesRestantes) {
     this.titre = titre;

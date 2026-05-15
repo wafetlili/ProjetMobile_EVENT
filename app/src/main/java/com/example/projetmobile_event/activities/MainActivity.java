@@ -1,10 +1,10 @@
-package com.example.eventmanager.activities;
+package com.example.projetmobile_event.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.eventmanager.R;
+import com.example.projetmobile_event.R;
 
 public class MainActivity extends AppCompatActivity {
 
