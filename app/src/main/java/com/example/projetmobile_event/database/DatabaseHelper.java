@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.example.eventmanager.models.Evenement;
+import com.example.projetmobile_event.models.Evenement;
 import com.example.projetmobile_event.models.Inscription;
 
 import java.util.ArrayList;

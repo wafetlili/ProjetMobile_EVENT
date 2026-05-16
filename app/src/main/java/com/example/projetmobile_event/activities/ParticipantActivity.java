@@ -11,9 +11,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.projetmobile_event.R;
-import com.example.eventmanager.adapters.EvenementAdapter;
-import com.example.eventmanager.database.DatabaseHelper;
-import com.example.eventmanager.models.Evenement;
+import com.example.projetmobile_event.adapters.EvenementAdapter;
+import com.example.projetmobile_event.database.DatabaseHelper;
+import com.example.projetmobile_event.models.Evenement;
 
 import java.util.ArrayList;
 import java.util.List;

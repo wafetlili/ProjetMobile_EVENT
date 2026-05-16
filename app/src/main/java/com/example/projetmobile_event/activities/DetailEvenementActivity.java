@@ -9,10 +9,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.eventmanager.R;
-import com.example.eventmanager.database.DatabaseHelper;
-import com.example.eventmanager.models.Evenement;
-import com.example.eventmanager.models.Inscription;
+import com.example.projetmobile_event.R;
+import com.example.projetmobile_event.database.DatabaseHelper;
+import com.example.projetmobile_event.models.Evenement;
+import com.example.projetmobile_event.models.Inscription;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

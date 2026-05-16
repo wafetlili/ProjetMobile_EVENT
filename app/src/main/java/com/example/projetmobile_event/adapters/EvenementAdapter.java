@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.projetmobile_event.R;
-import com.example.eventmanager.models.Evenement;
+import com.example.projetmobile_event.models.Evenement;
 
 import java.util.List;
 
